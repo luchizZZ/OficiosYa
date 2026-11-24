@@ -4,8 +4,8 @@
 
 **Carrera:** Tecnicatura Universitaria en Desarrollo de Software  
 **Espacio curricular:** Programacion de Aplicaciones para Celulares  
-**Estudiante:** Brandon Luna 
-**Repositorio:** https://github.com/BrandonLunaCastro/OficiosYA
+**Estudiante:** Cruceño Luciana
+**Repositorio:** https://github.com/luchizZZ/OficiosYa
 
 ---
 
